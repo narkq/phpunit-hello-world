@@ -1,0 +1,15 @@
+{
+    "name": "narkq/phpunit-hello-world",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alex Sladkov",
+            "email": "sladkov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    }
+}
